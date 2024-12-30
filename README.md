@@ -72,11 +72,11 @@ ffmpeg/
 |    ✅     | 自定义文件命名规则                |
 
 
-## 截图
+## 🎴 截图
 <div align="center">
 	<img src="./Pictures/1.png">
 </div>
 
-## 支持
+## 🧤 支持
 * 欢迎前往[Issue](https://github.com/SaKongA/VSplitter/issues)提出您遇到的任何问题；
 * 如果您对我的项目感兴趣，需要更多帮助与支持，再或需要完善其他功能，欢迎联系我！
